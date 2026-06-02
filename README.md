@@ -29,3 +29,8 @@ Applying a theme is incredibly easy. Just follow these steps:
   
   ![SneakPeak](https://raw.githubusercontent.com/not-mentally-stable/RbxStudio-Themes/refs/heads/main/SneakPeaks/LuauPlaygroundTheme.webp)
 </details>
+
+## ❤️ CustomThemes
+you can create or share custom themes here: https://github.com/not-mentally-stable/RbxStudio-Themes/discussions/
+
+check out [this](https://github.com/not-mentally-stable/RbxStudio-Themes/discussions/1) to learn more!
