@@ -1,6 +1,10 @@
 local Studio = settings():GetService("Studio")
 local HttpService = game:GetService("HttpService")
 
+if not HttpService.HttpEnabled then
+	HttpService.HttpEnabled = true
+end
+
 local THEME = "LuauPlayground" --// put your theme name here!
 
 local GithubUrl = "https://raw.githubusercontent.com/not-mentally-stable/RbxStudio-Themes/refs/heads/main/Themes/"..THEME..".luau"
