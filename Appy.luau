@@ -10,6 +10,7 @@ if not bool then
 	return
 end
 
+local Custom = Enum.StudioScriptEditorColorPresets.Custom
 if Studio["Script Editor Color Preset"] ~= Custom then
 	Studio["Script Editor Color Preset"] = Custom
 end
