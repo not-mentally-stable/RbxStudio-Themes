@@ -21,4 +21,11 @@ Applying a theme is incredibly easy. Just follow these steps:
 7. Check the Output window for a success message (e.g., `Theme applied successfully! ✨️`).
 
 ## 📦 Available Themes
-**[Luau Playground](https://github.com/not-mentally-stable/RbxStudio-Themes/blob/main/Themes/LuauPlayground.luau)** - based on https://play.luau.org/
+<details>
+  <summary>LuauPlayground theme</summary>
+  based on: https://play.luau.org/
+  
+  ThemeName: **LuauPlayground** / [File](https://github.com/not-mentally-stable/RbxStudio-Themes/blob/main/Themes/LuauPlayground.luau)
+  
+  ![SneakPeak](https://raw.githubusercontent.com/not-mentally-stable/RbxStudio-Themes/refs/heads/main/SneakPeaks/LuauPlaygroundTheme.webp)
+</details>
