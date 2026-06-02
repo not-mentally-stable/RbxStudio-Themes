@@ -17,7 +17,7 @@ Applying a theme is incredibly easy. Just follow these steps:
 3. Click on **Command Bar** to ensure it is visible (usually appears at the bottom of your screen).
 4. Browse the `Themes` folder in this repository and find a theme you like and remember the file name.
 5. Copy the raw Luau code from `Apply.luau`.
-6. Paste the code into your CommandBar and make sure to change the `THEME` variable then press `Enter`.
+6. Paste the code into your CommandBar and make sure to change the `THEME` variable then press `Enter` (you may get a warning. just press continue).
 7. Check the Output window for a success message (e.g., `Theme applied successfully! ✨️`).
 
 ## 📦 Available Themes
