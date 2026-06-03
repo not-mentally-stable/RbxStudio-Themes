@@ -5,12 +5,24 @@ if not HttpService.HttpEnabled then
    HttpService.HttpEnabled = true
 end
 
-local THEME = "LuauPlayground" --// put your theme name here!
+local THEME = "LuauPlayground" --// put your theme name here!!
 
+---// loader
 local GithubUrl = "https://raw.githubusercontent.com/not-mentally-stable/RbxStudio-Themes/refs/heads/main/Themes/"..THEME..".luau"
-local success, themedata = pcall(HttpService.GetAsync, HttpService, GithubUrl)
+local success, rawdata = pcall(HttpService.GetAsync, HttpService, GithubUrl)
 if not success then
-   warn("Sadly failed to apply theme. reason: ".. themedata)
+   warn("Sadly failed to fetch theme. reason: ".. rawdata)
+   return
+end
+
+local loader, str = loadstring(rawdata)
+if not loader then
+   warn("failed to compile theme? reason: ".. str)
+   return
+end 
+local bool, themedata = pcall(loader)
+if not bool then
+   warn("failed to execute theme? reason: ".. themedata)
    return
 end
 
