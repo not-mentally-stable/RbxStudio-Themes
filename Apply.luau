@@ -10,7 +10,7 @@ local THEME = "LuauPlayground" --// put your theme name here!
 local GithubUrl = "https://raw.githubusercontent.com/not-mentally-stable/RbxStudio-Themes/refs/heads/main/Themes/"..THEME..".luau"
 local success, themedata = pcall(HttpService.GetAsync, HttpService, GithubUrl)
 if not success then
-   warn("Sadly failed to apply theme. reason: ".. ThemeData)
+   warn("Sadly failed to apply theme. reason: ".. themedata)
    return
 end
 
@@ -25,7 +25,7 @@ for Props, Color in themedata do
 	end)
 	
 	if not success then
-		warn(`Failed to apply color for "{PropsName}": {err}`)
+		warn(`Failed to apply color for "{Props}": {err}`)
 	end
 end
 
