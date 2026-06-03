@@ -1,9 +1,8 @@
 <div align="center">
-
-![RobloxStudio](https://img.shields.io/badge/ROBLOX_STUDIO-black?style=for-the-badge&logo=robloxstudio&logoColor=white&link=https%3A%2F%2Fcreate.roblox.com%2F) ![LICENSE](https://img.shields.io/badge/LICENSE-GPL3.0-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fnot-mentally-stable%2FRbxStudio-Themes%2Fblob%2Fmain%2FLICENSE)
-
+	<img src="https://raw.githubusercontent.com/not-mentally-stable/RbxStudio-Themes/refs/heads/main/SneakPeaks/Assets/MainLogo.png" alt="MainLogo"/>
+  
+  ![RobloxStudio](https://img.shields.io/badge/ROBLOX_STUDIO-black?style=for-the-badge&logo=robloxstudio&logoColor=white&link=https%3A%2F%2Fcreate.roblox.com%2F)  ![LICENSE](https://img.shields.io/badge/LICENSE-GPL3.0-green?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fnot-mentally-stable%2FRbxStudio-Themes%2Fblob%2Fmain%2FLICENSE)
 </div>
-
 
 # 🎨 Studio-Themes
 A curated collection of beautiful, custom Script Editor themes for Roblox Studio. 
