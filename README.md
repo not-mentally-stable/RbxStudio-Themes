@@ -18,6 +18,7 @@ Applying a theme is incredibly easy. Just follow these steps:
 5. Copy the raw Luau code from `Apply.luau`.
 6. Paste the code into your CommandBar and make sure to change the `THEME` variable then press `Enter` (you may get a warning. just press continue).
 7. Check the Output window for a success message (e.g., `Theme applied successfully! ✨️`).
+> btw to reset just just go into studio settings > script editor > then select ``Script Editor Color Present`` and set to **default**
 
 ## 📦 Available Themes
 <details>
