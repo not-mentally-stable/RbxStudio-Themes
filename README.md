@@ -20,6 +20,9 @@ Applying a theme is incredibly easy. Just follow these steps:
 7. Check the Output window for a success message (e.g., `Theme applied successfully! ✨️`).
 > btw to reset just go into studio settings > script editor > then select ``Script Editor Color Present`` and set to **default**
 
+> [!WARNING]
+> YOU MAY EXPERIENCE LAG WHILE APPLYING THEME.
+
 ## 📦 Available Themes
 <details>
   <summary>LuauPlayground theme</summary>
