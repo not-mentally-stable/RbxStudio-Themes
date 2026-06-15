@@ -28,9 +28,41 @@ Applying a theme is incredibly easy. Just follow these steps:
   <summary>LuauPlayground theme</summary>
   based on: https://play.luau.org/
   
-  ThemeName: **LuauPlayground** / [File](https://github.com/not-mentally-stable/RbxStudio-Themes/blob/main/Themes/LuauPlayground.luau)
+  ThemeName: **LuauPlayground** / [FilePreview](https://github.com/not-mentally-stable/RbxStudio-Themes/blob/main/Themes/LuauPlayground.luau)
   
   ![SneakPeak](https://raw.githubusercontent.com/not-mentally-stable/RbxStudio-Themes/refs/heads/main/SneakPeaks/LuauPlaygroundTheme.webp)
+</details>
+
+<details>
+  <summary>OneDark theme</summary>
+
+  ThemeName: **OneDark** / [FilePreview](https://github.com/not-mentally-stable/RbxStudio-Themes/blob/main/Themes/OneDark.luau)
+  
+  ![SneakPeak](https://raw.githubusercontent.com/not-mentally-stable/RbxStudio-Themes/refs/heads/main/SneakPeaks/OneDark.webp)
+</details>
+
+<details>
+  <summary>Dracula theme</summary>
+	
+  ThemeName: **Dracula** / [FilePreview](https://github.com/not-mentally-stable/RbxStudio-Themes/blob/main/Themes/Dracula.luau)
+  
+  ![SneakPeak](https://raw.githubusercontent.com/not-mentally-stable/RbxStudio-Themes/refs/heads/main/SneakPeaks/DraculaTheme.webp)
+</details>
+
+<details>
+  <summary>Nord theme</summary>
+	
+  ThemeName: **Nord** / [FilePreview](https://github.com/not-mentally-stable/RbxStudio-Themes/blob/main/Themes/Nord.luau)
+  
+  ![SneakPeak](https://raw.githubusercontent.com/not-mentally-stable/RbxStudio-Themes/refs/heads/main/SneakPeaks/NordTheme.webp)
+</details>
+
+<details>
+  <summary>CyberPunk theme</summary>
+	
+  ThemeName: **CyberPunk** / [FilePreview](https://github.com/not-mentally-stable/RbxStudio-Themes/blob/main/Themes/CyberPunk.luau)
+  
+  ![SneakPeak](https://raw.githubusercontent.com/not-mentally-stable/RbxStudio-Themes/refs/heads/main/SneakPeaks/CyberPunkTheme.webp)
 </details>
 
 ## ❤️ CustomThemes
