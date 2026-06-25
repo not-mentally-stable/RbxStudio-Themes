@@ -32,7 +32,7 @@ if Studio["Script Editor Color Preset"] ~= Custom then
 end
 
 for Props, Color in themedata do
-    task.wait() -- if the lag is too bad on your device or you crash please yield more.
+    task.wait() -- if the lag is too intense or you crash please yield more.
     local success, err = pcall(function()
 		Studio[Props] = Color
 	end)
